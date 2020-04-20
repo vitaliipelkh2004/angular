@@ -1,6 +1,6 @@
 FROM node:latest
 
-MAINTAINER andriy23
+MAINTAINER godvitalii
 
 COPY . /var/www
 WORKDIR /var/www
